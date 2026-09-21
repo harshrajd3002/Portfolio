@@ -50,7 +50,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-copy">
-          © {year} · Made with care
+          © {year} · Made with care <a href = "/admin/login">admin</a>
         </div>
       </div>
     </footer>
